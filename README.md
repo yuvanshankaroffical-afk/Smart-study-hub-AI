@@ -2,7 +2,7 @@
 
 **Smart Study Hub** is an advanced learning management and AI-driven research platform. It leverages model-based agents to help users organize content, automate study workflows, and interact with deep learning concepts through a streamlined interface.
 
-<img width="1889" height="907" alt="Screenshot 2026-04-02 223148" src="https://github.com/user-attachments/assets/20a26fd5-d033-4f3e-a499-6499e41d2e1e" />
+<img width="1874" height="829" alt="Landing page" src="https://github.com/user-attachments/assets/6b79365b-0a36-41d3-8da1-105f89a554b4" />
 
 ---
 
@@ -26,7 +26,8 @@ The repository is organized into several specialized modules:
 
 ---
 
-<img width="1890" height="899" alt="Screenshot 2026-04-02 223202" src="https://github.com/user-attachments/assets/625b7861-1e3b-4a76-a85c-f8aa574c8202" />
+<img width="1869" height="837" alt="Landing page" src="https://github.com/user-attachments/assets/fadd9dce-76e5-4763-88b7-28b915624991" />
+
 
 ## 🛠️ Getting Started
 
@@ -64,6 +65,9 @@ bun run build
 ```
 
 ---
+
+<img width="1867" height="823" alt="Landing page" src="https://github.com/user-attachments/assets/3ce69abc-eac1-44d2-b587-57c2b7b1d6d3" />
+
 
 ## 🐳 Docker Deployment
 You can run the entire stack using Docker:
