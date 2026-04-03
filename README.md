@@ -21,7 +21,8 @@
 
 The repository is organized into several specialized modules:
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c46b7144-f04b-4b49-87f8-cd345e45118a" />
+![project stutrute](https://github.com/user-attachments/assets/f85bc9b4-6876-4791-9d2e-b1455c543f21)
+
 
 
 ---
