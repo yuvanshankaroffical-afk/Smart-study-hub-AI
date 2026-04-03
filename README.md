@@ -1,6 +1,6 @@
 # 🎓 Smart Study Hub
 ## Live Demo
-[Smart Study Hub AI Dashboard](https://smart-study-hub-ai.vercel.app/dashboard)
+[Smart Study Hub AI Dashboard]([https://smart-study-hub-ai.vercel.app/dashboard](https://smart-study-hub-ai-git-main-yuvanshankaroffical-afks-projects.vercel.app/))
 
 
 **Smart Study Hub** is an advanced learning management and AI-driven research platform. It leverages model-based agents to help users organize content, automate study workflows, and interact with deep learning concepts through a streamlined interface.
