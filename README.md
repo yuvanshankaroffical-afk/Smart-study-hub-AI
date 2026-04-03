@@ -1,6 +1,8 @@
 # 🎓 Smart Study Hub
-([https://supabase.com/](https://smart-study-hub-ai.vercel.app/dashboard))
-https://smart-study-hub-ai.vercel.app/dashboard
+## Live Demo
+[Smart Study Hub AI Dashboard](https://smart-study-hub-ai.vercel.app/dashboard)
+
+
 **Smart Study Hub** is an advanced learning management and AI-driven research platform. It leverages model-based agents to help users organize content, automate study workflows, and interact with deep learning concepts through a streamlined interface.
 
 <img width="1874" height="829" alt="Landing page" src="https://github.com/user-attachments/assets/6b79365b-0a36-41d3-8da1-105f89a554b4" />
